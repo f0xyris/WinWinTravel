@@ -1,0 +1,164 @@
+{
+	"filterItems": [
+		{
+			"id": "PRELIMINARY_FILTER",
+			"name": "Preliminary filter",
+			"type": "OPTION",
+			"options": [
+				{ "id": "distance-1km", "name": "Distance to the center 1 km" },
+				{ "id": "guest-rating-9plus", "name": "Guest rating 9+" },
+				{ "id": "hotels", "name": "Hotels" },
+				{ "id": "distance-3km", "name": "Distance to the center 3 km" },
+				{ "id": "stars-5", "name": "5 stars" },
+				{ "id": "breakfast-included", "name": "Breakfast is included" }
+			]
+		},
+		{
+			"id": "POPULAR_FILTERS",
+			"name": "Popular filters",
+			"type": "OPTION",
+			"options": [
+				{ "id": "5-stars", "name": "5 stars" },
+				{ "id": "breakfast", "name": "Breakfast is included" },
+				{ "id": "free-booking", "name": "Free booking" },
+				{ "id": "4-stars", "name": "4 stars" },
+				{ "id": "distance-3km-pop", "name": "Distance to the center 3 km" },
+				{ "id": "guest-rating-8plus", "name": "Guest rating 8+" }
+			]
+		},
+		{
+			"id": "AMENITIES_FACILITY",
+			"name": "Amenities of the accommodation facility",
+			"type": "OPTION",
+			"options": [
+				{ "id": "transfer", "name": "Transfer to/from the hotel" },
+				{ "id": "breakfast-facility", "name": "Breakfast included" },
+				{ "id": "smoking-area", "name": "Smoking area" },
+				{ "id": "reception-24", "name": "Round-the-clock reception" },
+				{ "id": "restaurant", "name": "Restaurant" },
+				{ "id": "playground", "name": "Children's playground" },
+				{ "id": "early-check-in", "name": "Early check-in" },
+				{ "id": "swimming-pool", "name": "Swimming pool" },
+				{ "id": "internet-facility", "name": "Internet" },
+				{ "id": "late-check-in", "name": "Late check-in" },
+				{ "id": "spa-sauna", "name": "Spa center/sauna" },
+				{ "id": "security", "name": "Security" },
+				{ "id": "pets-allowed-facility", "name": "Pets are allowed" },
+				{ "id": "gym", "name": "Gym/fitness room" },
+				{ "id": "lift-facility", "name": "Lift" },
+				{ "id": "parking-facility", "name": "Parking" },
+				{ "id": "conference-rooms", "name": "Conference rooms" },
+				{ "id": "eco-responsibility", "name": "Eco-responsibility" }
+			]
+		},
+		{
+			"id": "AMENITIES_FOR_DISABLED",
+			"name": "Amenities for people with disabilities",
+			"type": "OPTION",
+			"options": [
+				{ "id": "no-steps-entrance", "name": "Entrance without steps" },
+				{ "id": "parking-disabled", "name": "Parking" },
+				{ "id": "lift-disabled", "name": "Lift" },
+				{ "id": "entrance-81", "name": "Entrance 81 cm wide" },
+				{ "id": "ramp", "name": "Availability of a ramp" },
+				{ "id": "handrails", "name": "Handrails" }
+			]
+		},
+		{
+			"id": "ROOM_FACILITIES",
+			"name": "Room facilities",
+			"type": "OPTION",
+			"options": [
+				{ "id": "bath", "name": "Bath" },
+				{ "id": "kitchen", "name": "Kitchen" },
+				{ "id": "underfloor-heating", "name": "Underfloor heating" },
+				{ "id": "shower", "name": "Shower" },
+				{ "id": "air-conditioning", "name": "Air Conditioning" },
+				{ "id": "pets-allowed", "name": "Pets allowed" },
+				{ "id": "coffee-machine", "name": "Coffee machine" },
+				{ "id": "iron", "name": "Iron" },
+				{ "id": "baby-bed", "name": "Baby bed" },
+				{ "id": "kettle", "name": "Kettle" },
+				{ "id": "internet-room", "name": "Internet" },
+				{ "id": "balcony", "name": "Balcony" },
+				{ "id": "fridge", "name": "Fridge" },
+				{ "id": "workplace", "name": "Workplace" }
+			]
+		},
+		{
+			"id": "ROOM_FACILITIES_DISABLED",
+			"name": "Room facilities for people with disabilities",
+			"type": "OPTION",
+			"options": [
+				{ "id": "main-door-81", "name": "Main door entrance width 81 cm" },
+				{ "id": "handrail-shower", "name": "Handrail in the shower" },
+				{ "id": "high-toilet", "name": "High toilet bowl" },
+				{ "id": "interior-door-81", "name": "Interior door width 81 cm" },
+				{ "id": "bath-chair", "name": "Bath/shower chair" },
+				{ "id": "braille", "name": "Instructions in Braille" },
+				{ "id": "no-steps-room", "name": "Absence of steps" },
+				{ "id": "barrier-free-shower", "name": "Barrier-free shower" },
+				{ "id": "emergency-cord-bathroom", "name": "Emergency cord in the bathroom" },
+				{ "id": "handrail-toilet", "name": "Handrail near the toilet" },
+				{ "id": "low-washbasin", "name": "Low washbasin" },
+				{ "id": "emergency-cord-bed", "name": "Emergency cord by the bedside" }
+			]
+		},
+		{
+			"id": "NUTRITION",
+			"name": "Nutrition",
+			"type": "OPTION",
+			"options": [
+				{ "id": "no-meals", "name": "Room without meals" },
+				{ "id": "breakfast-dinner", "name": "Breakfast and dinner" },
+				{ "id": "all-inclusive", "name": "All inclusive" },
+				{ "id": "breakfast-only", "name": "Breakfast included" },
+				{ "id": "three-meals", "name": "Breakfast, lunch, dinner" },
+				{ "id": "ultra-all-inclusive", "name": "Ultra all inclusive" }
+			]
+		},
+		{
+			"id": "CANCELLATION_POLICY",
+			"name": "Reservation cancellation policy",
+			"type": "OPTION",
+			"options": [
+				{ "id": "free-before", "name": "Free cancellation before check-in" },
+				{ "id": "free-one-week", "name": "Free cancellation one week before check-in" },
+				{ "id": "free-3days", "name": "Free cancellation up to 3 days before check-in" },
+				{ "id": "no-cancellation", "name": "No possibility of cancellation" }
+			]
+		},
+		{
+			"id": "PREPAYMENT",
+			"name": "Prepayment",
+			"type": "OPTION",
+			"options": [
+				{ "id": "no-credit-card", "name": "Booking without a credit card" },
+				{ "id": "partial-prepayment", "name": "Partial prepayment" },
+				{ "id": "no-prepayment", "name": "Booking without prepayment" },
+				{ "id": "full-prepayment", "name": "Full prepayment" }
+			]
+		},
+		{
+			"id": "FORM_OF_PAYMENT",
+			"name": "Form of payment",
+			"type": "OPTION",
+			"options": [
+				{ "id": "cash", "name": "Payment in cash" },
+				{ "id": "card", "name": "Payment by card" }
+			]
+		},
+		{
+			"id": "SPECIAL_OFFERS",
+			"name": "Special offers and discounts",
+			"type": "OPTION",
+			"options": [
+				{ "id": "discounts-50", "name": "Discounts of 50%" },
+				{ "id": "hot-offers", "name": "Hot offers" },
+				{ "id": "cheap-relocation", "name": "Cheap options for relocation" }
+			]
+		}
+	]
+}
+
+

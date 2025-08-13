@@ -1,0 +1,128 @@
+{
+	"filter": {
+		"title": "Фильтры",
+		"apply": "Применить",
+		"cancel": "Отмена",
+		"close": "Закрыть",
+		"confirmApply": "Применить выбранные фильтры?",
+		"open": "Открыть фильтры",
+		"debugTitle": "Выбранные фильтры (отладка)",
+		"loading": "Загрузка фильтров…",
+		"error": "Не удалось загрузить фильтры",
+		"clearAll": "Очистить все параметры",
+		"PRELIMINARY_FILTER": {"name":"Предварительный фильтр","options":{
+			"distance-1km":{"name":"Расстояние до центра 1 км"},
+			"guest-rating-9plus":{"name":"Оценка гостей 9+"},
+			"hotels":{"name":"Отели"},
+			"distance-3km":{"name":"Расстояние до центра 3 км"},
+			"stars-5":{"name":"5 звёзд"},
+			"breakfast-included":{"name":"Завтрак включён"}
+		}},
+		"POPULAR_FILTERS": {"name":"Популярные фильтры","options":{
+			"5-stars":{"name":"5 звёзд"},
+			"breakfast":{"name":"Завтрак включён"},
+			"free-booking":{"name":"Бесплатное бронирование"},
+			"4-stars":{"name":"4 звезды"},
+			"distance-3km-pop":{"name":"Расстояние до центра 3 км"},
+			"guest-rating-8plus":{"name":"Оценка гостей 8+"}
+		}},
+		"AMENITIES_FACILITY": {"name":"Удобства объекта размещения","options":{
+			"transfer":{"name":"Трансфер до/от отеля"},
+			"breakfast-facility":{"name":"Завтрак включён"},
+			"smoking-area":{"name":"Место для курения"},
+			"reception-24":{"name":"Круглосуточная стойка"},
+			"restaurant":{"name":"Ресторан"},
+			"playground":{"name":"Детская площадка"},
+			"early-check-in":{"name":"Ранний заезд"},
+			"swimming-pool":{"name":"Бассейн"},
+			"internet-facility":{"name":"Интернет"},
+			"late-check-in":{"name":"Поздний заезд"},
+			"spa-sauna":{"name":"СПА/сауна"},
+			"security":{"name":"Безопасность"},
+			"pets-allowed-facility":{"name":"Разрешены животные"},
+			"gym":{"name":"Тренажёрный зал"},
+			"lift-facility":{"name":"Лифт"},
+			"parking-facility":{"name":"Парковка"},
+			"conference-rooms":{"name":"Конференц-залы"},
+			"eco-responsibility":{"name":"Экологичность"}
+		}},
+		"AMENITIES_FOR_DISABLED": {"name":"Удобства для людей с ограниченными возможностями","options":{
+			"no-steps-entrance":{"name":"Вход без ступенек"},
+			"parking-disabled":{"name":"Парковка"},
+			"lift-disabled":{"name":"Лифт"},
+			"entrance-81":{"name":"Ширина входа 81 см"},
+			"ramp":{"name":"Наличие пандуса"},
+			"handrails":{"name":"Поручни"}
+		}},
+		"ROOM_FACILITIES": {"name":"Удобства в номере","options":{
+			"bath":{"name":"Ванна"},
+			"kitchen":{"name":"Кухня"},
+			"underfloor-heating":{"name":"Тёплый пол"},
+			"shower":{"name":"Душ"},
+			"air-conditioning":{"name":"Кондиционер"},
+			"pets-allowed":{"name":"Разрешены животные"},
+			"coffee-machine":{"name":"Кофемашина"},
+			"iron":{"name":"Утюг"},
+			"baby-bed":{"name":"Детская кроватка"},
+			"kettle":{"name":"Чайник"},
+			"internet-room":{"name":"Интернет"},
+			"balcony":{"name":"Балкон"},
+			"fridge":{"name":"Холодильник"},
+			"workplace":{"name":"Рабочее место"}
+		}},
+		"ROOM_FACILITIES_DISABLED": {"name":"Удобства в номере для людей с ОВ","options":{
+			"main-door-81":{"name":"Входная дверь 81 см"},
+			"handrail-shower":{"name":"Поручни в душе"},
+			"high-toilet":{"name":"Высокий унитаз"},
+			"interior-door-81":{"name":"Межкомнатная дверь 81 см"},
+			"bath-chair":{"name":"Сиденье для душа/ванны"},
+			"braille":{"name":"Надписи Брайля"},
+			"no-steps-room":{"name":"Отсутствие порогов"},
+			"barrier-free-shower":{"name":"Безбарьерный душ"},
+			"emergency-cord-bathroom":{"name":"Тревожный шнур в ванной"},
+			"handrail-toilet":{"name":"Поручень у туалета"},
+			"low-washbasin":{"name":"Низкая раковина"},
+			"emergency-cord-bed":{"name":"Тревожный шнур у кровати"}
+		}},
+		"NUTRITION": {"name":"Питание","options":{
+			"no-meals":{"name":"Без питания"},
+			"breakfast-dinner":{"name":"Завтрак и ужин"},
+			"all-inclusive":{"name":"Всё включено"},
+			"breakfast-only":{"name":"Завтрак включён"},
+			"three-meals":{"name":"Завтрак, обед, ужин"},
+			"ultra-all-inclusive":{"name":"Ультра всё включено"}
+		}},
+		"CANCELLATION_POLICY": {"name":"Политика отмены бронирования","options":{
+			"free-before":{"name":"Бесплатная отмена перед заездом"},
+			"free-one-week":{"name":"Бесплатная отмена за неделю"},
+			"free-3days":{"name":"Бесплатная отмена за 3 дня"},
+			"no-cancellation":{"name":"Без возможности отмены"}
+		}},
+		"PREPAYMENT": {"name":"Предоплата","options":{
+			"no-credit-card":{"name":"Без кредитной карты"},
+			"partial-prepayment":{"name":"Частичная предоплата"},
+			"no-prepayment":{"name":"Без предоплаты"},
+			"full-prepayment":{"name":"Полная предоплата"}
+		}},
+		"FORM_OF_PAYMENT": {"name":"Форма оплаты","options":{
+			"cash":{"name":"Наличные"},
+			"card":{"name":"Карта"}
+		}},
+		"SPECIAL_OFFERS": {"name":"Спецпредложения и скидки","options":{
+			"discounts-50":{"name":"Скидки 50%"},
+			"hot-offers":{"name":"Горячие предложения"},
+			"cheap-relocation":{"name":"Дешёвые варианты релокации"}
+		}}
+	},
+	"confirm": {
+		"title": "Применить новые фильтры?",
+		"message": "",
+		"yes": "Применить новые фильтры",
+		"no": "Оставить старые фильтры"
+	},
+	"home": {
+		"title": "WinWinTravel тестовое задание"
+	}
+}
+
+

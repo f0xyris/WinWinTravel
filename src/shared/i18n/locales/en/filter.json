@@ -1,0 +1,147 @@
+{
+	"title": "Filter",
+	"apply": "Apply",
+	"clearAll": "Clear all parameters",
+	"close": "Close",
+	"loading": "Loading filters…",
+	"error": "Failed to load filters",
+	"open": "Open Filters",
+	"debugTitle": "Selected filters (debug)",
+
+	"PRELIMINARY_FILTER": {
+		"name": "Preliminary filter",
+		"options": {
+			"distance-1km": { "name": "Distance to the center 1 km" },
+			"guest-rating-9plus": { "name": "Guest rating 9+" },
+			"hotels": { "name": "Hotels" },
+			"distance-3km": { "name": "Distance to the center 3 km" },
+			"stars-5": { "name": "5 stars" },
+			"breakfast-included": { "name": "Breakfast is included" }
+		}
+	},
+	"POPULAR_FILTERS": {
+		"name": "Popular filters",
+		"options": {
+			"5-stars": { "name": "5 stars" },
+			"breakfast": { "name": "Breakfast is included" },
+			"free-booking": { "name": "Free booking" },
+			"4-stars": { "name": "4 stars" },
+			"distance-3km-pop": { "name": "Distance to the center 3 km" },
+			"guest-rating-8plus": { "name": "Guest rating 8+" }
+		}
+	},
+	"AMENITIES_FACILITY": {
+		"name": "Amenities of the accommodation facility",
+		"options": {
+			"transfer": { "name": "Transfer to/from the hotel" },
+			"breakfast-facility": { "name": "Breakfast included" },
+			"smoking-area": { "name": "Smoking area" },
+			"reception-24": { "name": "Round-the-clock reception" },
+			"restaurant": { "name": "Restaurant" },
+			"playground": { "name": "Children's playground" },
+			"early-check-in": { "name": "Early check-in" },
+			"swimming-pool": { "name": "Swimming pool" },
+			"internet-facility": { "name": "Internet" },
+			"late-check-in": { "name": "Late check-in" },
+			"spa-sauna": { "name": "Spa center/sauna" },
+			"security": { "name": "Security" },
+			"pets-allowed-facility": { "name": "Pets are allowed" },
+			"gym": { "name": "Gym/fitness room" },
+			"lift-facility": { "name": "Lift" },
+			"parking-facility": { "name": "Parking" },
+			"conference-rooms": { "name": "Conference rooms" },
+			"eco-responsibility": { "name": "Eco-responsibility" }
+		}
+	},
+	"AMENITIES_FOR_DISABLED": {
+		"name": "Amenities for people with disabilities",
+		"options": {
+			"no-steps-entrance": { "name": "Entrance without steps" },
+			"parking-disabled": { "name": "Parking" },
+			"lift-disabled": { "name": "Lift" },
+			"entrance-81": { "name": "Entrance 81 cm wide" },
+			"ramp": { "name": "Availability of a ramp" },
+			"handrails": { "name": "Handrails" }
+		}
+	},
+	"ROOM_FACILITIES": {
+		"name": "Room facilities",
+		"options": {
+			"bath": { "name": "Bath" },
+			"kitchen": { "name": "Kitchen" },
+			"underfloor-heating": { "name": "Underfloor heating" },
+			"shower": { "name": "Shower" },
+			"air-conditioning": { "name": "Air Conditioning" },
+			"pets-allowed": { "name": "Pets allowed" },
+			"coffee-machine": { "name": "Coffee machine" },
+			"iron": { "name": "Iron" },
+			"baby-bed": { "name": "Baby bed" },
+			"kettle": { "name": "Kettle" },
+			"internet-room": { "name": "Internet" },
+			"balcony": { "name": "Balcony" },
+			"fridge": { "name": "Fridge" },
+			"workplace": { "name": "Workplace" }
+		}
+	},
+	"ROOM_FACILITIES_DISABLED": {
+		"name": "Room facilities for people with disabilities",
+		"options": {
+			"main-door-81": { "name": "Main door entrance width 81 cm" },
+			"handrail-shower": { "name": "Handrail in the shower" },
+			"high-toilet": { "name": "High toilet bowl" },
+			"interior-door-81": { "name": "Interior door width 81 cm" },
+			"bath-chair": { "name": "Bath/shower chair" },
+			"braille": { "name": "Instructions in Braille" },
+			"no-steps-room": { "name": "Absence of steps" },
+			"barrier-free-shower": { "name": "Barrier-free shower" },
+			"emergency-cord-bathroom": { "name": "Emergency cord in the bathroom" },
+			"handrail-toilet": { "name": "Handrail near the toilet" },
+			"low-washbasin": { "name": "Low washbasin" },
+			"emergency-cord-bed": { "name": "Emergency cord by the bedside" }
+		}
+	},
+	"NUTRITION": {
+		"name": "Nutrition",
+		"options": {
+			"no-meals": { "name": "Room without meals" },
+			"breakfast-dinner": { "name": "Breakfast and dinner" },
+			"all-inclusive": { "name": "All inclusive" },
+			"breakfast-only": { "name": "Breakfast included" },
+			"three-meals": { "name": "Breakfast, lunch, dinner" },
+			"ultra-all-inclusive": { "name": "Ultra all inclusive" }
+		}
+	},
+	"CANCELLATION_POLICY": {
+		"name": "Reservation cancellation policy",
+		"options": {
+			"free-before": { "name": "Free cancellation before check-in" },
+			"free-one-week": { "name": "Free cancellation one week before check-in" },
+			"free-3days": { "name": "Free cancellation up to 3 days before check-in" },
+			"no-cancellation": { "name": "No possibility of cancellation" }
+		}
+	},
+	"PREPAYMENT": {
+		"name": "Prepayment",
+		"options": {
+			"no-credit-card": { "name": "Booking without a credit card" },
+			"partial-prepayment": { "name": "Partial prepayment" },
+			"no-prepayment": { "name": "Booking without prepayment" },
+			"full-prepayment": { "name": "Full prepayment" }
+		}
+	},
+	"FORM_OF_PAYMENT": {
+		"name": "Form of payment",
+		"options": {
+			"cash": { "name": "Payment in cash" },
+			"card": { "name": "Payment by card" }
+		}
+	},
+	"SPECIAL_OFFERS": {
+		"name": "Special offers and discounts",
+		"options": {
+			"discounts-50": { "name": "Discounts of 50%" },
+			"hot-offers": { "name": "Hot offers" },
+			"cheap-relocation": { "name": "Cheap options for relocation" }
+		}
+	}
+}
